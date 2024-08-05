@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacob\\Documents\\Github\\EF-Core\\MyFirstEFCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4361F00-7465-41D0-B33B-6368F9315F83}|MyFirstEFCoreApp.csproj|c:\\users\\jacob\\documents\\github\\ef-core\\myfirstefcoreapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4361F00-7465-41D0-B33B-6368F9315F83}|MyFirstEFCoreApp.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4361F00-7465-41D0-B33B-6368F9315F83}|MyFirstEFCoreApp.csproj|c:\\users\\jacob\\documents\\github\\ef-core\\myfirstefcoreapp\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4361F00-7465-41D0-B33B-6368F9315F83}|MyFirstEFCoreApp.csproj|solutionrelative:author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4361F00-7465-41D0-B33B-6368F9315F83}|MyFirstEFCoreApp.csproj|c:\\users\\jacob\\documents\\github\\ef-core\\myfirstefcoreapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4361F00-7465-41D0-B33B-6368F9315F83}|MyFirstEFCoreApp.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4361F00-7465-41D0-B33B-6368F9315F83}|MyFirstEFCoreApp.csproj|c:\\users\\jacob\\documents\\github\\ef-core\\myfirstefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4361F00-7465-41D0-B33B-6368F9315F83}|MyFirstEFCoreApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 242,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\Github\\EF-Core\\MyFirstEFCoreApp\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\Github\\EF-Core\\MyFirstEFCoreApp\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:46:09.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\Github\\EF-Core\\MyFirstEFCoreApp\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\Github\\EF-Core\\MyFirstEFCoreApp\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:31:33.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\Github\\EF-Core\\MyFirstEFCoreApp\\Author.cs",
+              "RelativeDocumentMoniker": "Author.cs",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\Github\\EF-Core\\MyFirstEFCoreApp\\Author.cs",
+              "RelativeToolTip": "Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:32:58.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\Github\\EF-Core\\MyFirstEFCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\Github\\EF-Core\\MyFirstEFCoreApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:16:59.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
