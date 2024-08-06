@@ -1,0 +1,6 @@
+C:\Users\jacob\Documents\Github\EF-Core\MyFirstEFCoreApp\obj\Debug\net7.0\MyFirstEFCoreApp.csproj.AssemblyReference.cache
+C:\Users\jacob\Documents\Github\EF-Core\MyFirstEFCoreApp\obj\Debug\net7.0\MyFirstEFCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Documents\Github\EF-Core\MyFirstEFCoreApp\obj\Debug\net7.0\MyFirstEFCoreApp.AssemblyInfoInputs.cache
+C:\Users\jacob\Documents\Github\EF-Core\MyFirstEFCoreApp\obj\Debug\net7.0\MyFirstEFCoreApp.AssemblyInfo.cs
+C:\Users\jacob\Documents\Github\EF-Core\MyFirstEFCoreApp\obj\Debug\net7.0\MyFirstEFCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\Github\EF-Core\MyFirstEFCoreApp\obj\Debug\net7.0\MyFirstEFCoreApp.sourcelink.json
